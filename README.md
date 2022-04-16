@@ -1,0 +1,2 @@
+# Emptiness
+Make own projects
