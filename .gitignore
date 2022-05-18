@@ -248,3 +248,4 @@ Scene/backup/LostEffect_bak2.hiplc
 Scene/backup/LostEffect_bak3.hiplc
 Scene/geo/boolean_mesh/v1/boolean_mesh_v1.bgeo.sc
 Scene/geo/cutter_remesh_geo/v1/cutter_remesh_geo_v1.bgeo.sc
+*.sc
